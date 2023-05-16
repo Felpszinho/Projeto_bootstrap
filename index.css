@@ -1,0 +1,23 @@
+.img{
+    width: 50px;
+    height: 40px;
+    margin-left: 15px;
+}
+  h1{
+    color: rgb(236, 239, 7);
+    font-size: 24px;
+    padding-top: 18px;
+    margin-left: 8px;
+
+}
+.carousel-item{
+   margin-top: 15px;
+    max-height: 700px;
+  
+}
+.col{
+    margin-top: 35px;
+}
+.nav-link{
+    color: yellow;
+}
